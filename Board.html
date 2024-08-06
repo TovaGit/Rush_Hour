@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<title>Document</title>
+<link href="board.css" rel="stylesheet" />
+<link href="car.css" rel="stylesheet" />
+<script  src="Cars.js"></script>
+</head>
+<body  onload="StartGame()">
+     <button onclick=SaveLocal() id="save"  > </button> 
+    <div id="board"></div>
+    <div class="but">
+        <button onclick=moveUp() id="up"  > </button>
+        <button onclick=moveDown()  id="down" ></button>
+        <button onclick=moveRight()  id="right"></button>
+        <button onclick=moveLeft()  id="left"></button>
+    </div>
+   
+    <button id="out"></button>
+    <button onclick=StopLocal() id="stop"  > </button>
+   <!-- // <divi id="out"></div> -->
+    
+
+</body>
+
+</html>

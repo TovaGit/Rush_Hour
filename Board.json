@@ -1,0 +1,95 @@
+{
+"cars" :[
+{
+    "id":"1",
+    "boardTop" :0,
+    "boardLeft":3,
+    "direction" :"across",
+    "sumSquares":3,
+    "picture" :"1.jpg"
+},
+{
+    "id":"2",
+    "boardTop" :0,
+    "boardLeft":0,
+    "direction" :"along",
+    "sumSquares":2  ,
+    "picture" :"7.jpg"
+},
+{
+    "id":"redCar",
+    "boardTop" :2,
+    "boardLeft":0,
+    "direction" :"across",
+    "sumSquares":2  ,
+    "picture" :"2.jpg"
+},
+{
+    "id":"4",
+    "boardTop" :3,
+    "boardLeft":0,
+    "direction" :"across",
+    "sumSquares":3  ,
+    "picture" :"5.jpg"
+},
+{
+    "id":"5",
+    "boardTop" :5,
+    "boardLeft":0,
+    "direction" :"across",
+    "sumSquares":2  ,
+    "picture" :"4.jpg"
+},
+{
+    "id":"6",
+    "boardTop" :4,
+    "boardLeft":2,
+    "direction" :"along",
+    "sumSquares":2  ,
+    "picture" :"9.jpg"
+},
+{
+    "id":"7",
+    "boardTop" :5,
+    "boardLeft":3,
+    "direction" :"across",
+    "sumSquares":2  ,
+    "picture" :"12.jpg"
+},
+{
+    "id":"8",
+    "boardTop" :2,
+    "boardLeft":4,
+    "direction" :"along",
+    "sumSquares":2 ,
+    "picture" :"3.jpg"
+},
+{
+    "id":"9",
+    "boardTop" :4,
+    "boardLeft":4,
+    "direction" :"across",
+    "sumSquares":2  ,
+    "picture" :"6.jpg"
+},
+{
+    "id":"10",
+    "boardTop" :1,
+    "boardLeft":5,
+    "direction" :"along",
+    "sumSquares":3  ,
+    "picture" :"11.jpg"
+},
+{
+    "id":"11",
+    "boardTop" :1,
+    "boardLeft":3,
+    "direction" :"along",
+    "sumSquares":2  ,
+    "picture" :"8.jpg"
+}
+],
+"SizeOfSlot":100,
+"AmountOfSlots":36,
+"ExitPoint":5
+}
